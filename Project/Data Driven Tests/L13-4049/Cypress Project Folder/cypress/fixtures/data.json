@@ -1,0 +1,19 @@
+{ 
+    "email": "admin@example.com", 
+    "pw": "test123",
+    "comp1": "Orders",
+    "comp2": "Filter",
+    "comp3": "Date Range",
+    "comp4": "Status",
+    "comp5": "Email",
+    "comp6": "Promotion",
+    "comp7": "First Name Begins With",
+    "comp8": "Shipment Number",
+    "comp9": "Last Name Begins With",
+    "comp10": "Variant",
+    "orderID": "R018933228",
+    "adminEmailComponent": "#spree_user_email",
+    "adminPassComponent": "#spree_user_password",
+    "SuccessMsg": "Logged in successfully",
+    "newName": "Test123"
+}
